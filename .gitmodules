@@ -1,0 +1,3 @@
+[submodule "JL"]
+	path = JonLib
+	url = https://github.com/jononon/JonLib
